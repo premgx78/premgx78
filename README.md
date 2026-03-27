@@ -23,19 +23,33 @@ Hi 👋, I'm Prem,<br><br>🎓 Computer Engineering student passionate about tec
 
 # 🚀 Projects Showcase:
 
-## 📱 Shopping App
-![Flutter](https://img.shields.io/badge/Flutter-blue?style=flat&logo=flutter)
-![Firebase](https://img.shields.io/badge/Firebase-orange?style=flat&logo=firebase)
-
-A full-featured e-commerce app with authentication and real-time database.  
-🔗 https://github.com/premgx78/shopping-app
+### 📱 Shopping App (Flutter)
+- 🛒 A modern e-commerce mobile application
+- 🔐 Firebase Authentication & Real-time Database
+- 🎨 Clean UI built with Flutter & Dart  
+- 🚀 Features: Login/Signup, Product Listing, Cart System  
+🔗 [View Project](https://github.com/premgx78/shopping-app)
 
 ---
 
-## 🧮 Calculator
-![HTML](https://img.shields.io/badge/HTML-orange?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=flat&logo=css3)
-![JS](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript)
+### 🧮 Calculator Web App
+- 💻 Simple and responsive calculator using HTML, CSS, JavaScript  
+- ⚡ Fast and lightweight design  
+- 🎯 Focus on clean UI and functionality  
+🔗 [View Project](https://github.com/premgx78/calculator)
 
-Simple and responsive calculator web app.  
-🔗 https://github.com/premgx78/calculator
+---
+
+### 💱 Currency Converter
+- 🌍 Converts currencies using real-time exchange rates  
+- 📊 Built with JavaScript and API integration  
+- 🎯 User-friendly interface  
+🔗 [View Project](https://github.com/premgx78/currency-converter)
+
+---
+
+### 🌐 Portfolio Website
+- 🧑‍💻 Personal portfolio to showcase skills and projects  
+- 🎨 Designed using HTML, CSS, and JavaScript  
+- 📱 Fully responsive design  
+🔗 [View Project](https://github.com/premgx78/portfolio)
