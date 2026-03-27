@@ -42,8 +42,7 @@ Hi 👋, I'm Prem,<br><br>🎓 Computer Engineering student passionate about tec
 
 ### 💱 Currency Converter
 - 🌍 Converts currencies using real-time exchange rates  
-- 📊 Built with JavaScript and API integration  
-- 🎯 User-friendly interface  
+- 📊 Built console based with C    
 🔗 [View Project](https://github.com/premgx78/currency-converter)
 
 ---
@@ -52,4 +51,4 @@ Hi 👋, I'm Prem,<br><br>🎓 Computer Engineering student passionate about tec
 - 🧑‍💻 Personal portfolio to showcase skills and projects  
 - 🎨 Designed using HTML, CSS, and JavaScript  
 - 📱 Fully responsive design  
-🔗 [View Project](https://github.com/premgx78/portfolio)
+🔗 On Working...
