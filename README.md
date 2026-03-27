@@ -21,3 +21,21 @@ Hi 👋, I'm Prem,<br><br>🎓 Computer Engineering student passionate about tec
 ---
 [![](https://visitcount.itsvg.in/api?id=premgx78&icon=0&color=0)](https://visitcount.itsvg.in)
 
+# 🚀 Projects Showcase:
+
+## 📱 Shopping App
+![Flutter](https://img.shields.io/badge/Flutter-blue?style=flat&logo=flutter)
+![Firebase](https://img.shields.io/badge/Firebase-orange?style=flat&logo=firebase)
+
+A full-featured e-commerce app with authentication and real-time database.  
+🔗 https://github.com/premgx78/shopping-app
+
+---
+
+## 🧮 Calculator
+![HTML](https://img.shields.io/badge/HTML-orange?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=flat&logo=css3)
+![JS](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript)
+
+Simple and responsive calculator web app.  
+🔗 https://github.com/premgx78/calculator
