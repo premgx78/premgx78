@@ -42,7 +42,7 @@ Hi 👋, I'm Prem,<br><br>🎓 Computer Engineering student passionate about tec
 
 ### 💱 Currency Converter
 - 🌍 Converts currencies using real-time exchange rates  
-- 📊 Built console based with C++    
+- 📊 Built Web App using HTML, CSS and JS
 🔗 [View Project](https://github.com/premgx78/currency-converter)
 
 ---
